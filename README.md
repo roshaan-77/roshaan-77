@@ -9,35 +9,9 @@ Recommended banner direction:
 - minimal typography
 - cinematic negative space
 
-Suggested text:
-ROSHAAN HAIDER
-AI Enthusiast | Software Engineer | Unity Game Developer
-
-Example:
-![Roshaan Haider Banner](./assets/banner.png)
--->
-
-<div align="center">
-
-<br />
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <sub>BANNER PLACEHOLDER</sub>
-      <br />
-      <br />
-      <strong>ROSHAAN HAIDER</strong>
-      <br />
-      <sub>AI Enthusiast | Software Engineer | Unity Game Developer</sub>
-      <br />
-      <br />
-      <sub>Matte black | Charcoal geometry | Muted crimson accents | Clean cinematic spacing</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
+<p align="center">
+  <img src="./banner.png" alt="Roshaan Haider banner" width="100%" />
+</p>
 
 # Roshaan Haider
 
