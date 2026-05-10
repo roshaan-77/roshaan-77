@@ -70,19 +70,6 @@ My work is centered on systems that need to feel both technically sound and usab
 
 ---
 
-## GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshaan-77&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=00000000&title_color=9E2235&text_color=E6E6E6&icon_color=9E2235&border_color=2C2C2C" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaan-77&layout=compact&langs_count=8&bg_color=00000000&title_color=9E2235&text_color=E6E6E6&border_color=2C2C2C" height="165" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=roshaan-77&background=00000000&border=2C2C2C&stroke=9E2235&ring=9E2235&fire=9E2235&currStreakLabel=E6E6E6&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8F8F8F" height="165" alt="GitHub streak" />
-</div>
-
----
-
 ## Featured Projects
 
 ### 1. War of Survival
@@ -109,53 +96,6 @@ My work is centered on systems that need to feel both technically sound and usab
 <!-- Future visual placeholder: add NeuralSight demo screenshot or short demo GIF below when ready. -->
 > Visual placeholder: demo screenshot or interaction flow
 
-### 3. AI-Based Warehouse Management System
-**AI-powered warehouse simulation system** exploring coordination, scheduling, and concurrency concepts.
-
-- Producer-consumer workflows
-- Semaphores and multithreading concepts
-- Adaptive scheduling and system coordination ideas
-
-**Focus:** simulation logic, concurrency, systems thinking
-
-<!-- Future visual placeholder: add architecture diagram below when ready. -->
-> Visual placeholder: architecture diagram or workflow snapshot
-
-### 4. Cloud Resource Optimizer
-**AI-based cloud resource allocation prototype** using **machine learning** and **A* informed search** with Google Cluster datasets.
-
-- Dataset preprocessing and workload pattern study
-- Forecasting-oriented ML workflow for resource demand analysis
-- Search-based allocation strategy for efficient state transitions
-
-**Focus:** optimization, ML workflows, resource scheduling
-
-<!-- Future visual placeholder: add workload chart or architecture diagram below when ready. -->
-> Visual placeholder: optimization flow or data visualization
-
-### 5. Feast Delights
-**Restaurant management system** using **Supabase** and **PostgreSQL** with a focus on structured backend data workflows.
-
-- Normalized relational database design
-- Order tracking and inventory-oriented workflows
-- Backend data structure for reliable operational management
-
-**Focus:** database design, backend workflows, relational modeling
-
-<!-- Future visual placeholder: add schema diagram or UI preview below when ready. -->
-> Visual placeholder: schema diagram or system preview
-
----
-
-## Engineering Direction
-
-I am especially drawn to work that combines:
-
-- intelligent systems with practical use cases
-- clean software structure with reliable implementation
-- real-time gameplay systems that feel responsive and deliberate
-
-I want my projects to reflect solid technical decisions, clear thinking, and steady iteration.
 
 ---
 
