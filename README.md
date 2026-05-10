@@ -19,7 +19,7 @@ Example:
 
 [![Followers](https://img.shields.io/github/followers/roshaan-77?style=flat-square&color=8B1E2D&labelColor=111111)](https://github.com/roshaan-77)
 [![Profile Views](https://komarev.com/ghpvc/?username=roshaan-77&style=flat-square&color=8B1E2D&label=Profile%20Views)](https://github.com/roshaan-77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white&labelColor=8B1E2D)]([https://linkedin.com/in/roshaan-haider](https://www.linkedin.com/in/roshaan-haider-0951472a7/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white&labelColor=8B1E2D)]((https://www.linkedin.com/in/roshaan-haider-0951472a7/))
 [![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white&labelColor=8B1E2D)](mailto:roshaanhaider2005@gmail.com)
 
 </div>
