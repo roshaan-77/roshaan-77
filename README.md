@@ -22,16 +22,6 @@ Example:
 
 <div align="center">
 
-
-# Roshaan Haider
-
-<strong>Computer Science Undergraduate at FAST-NUCES</strong>
-<br />
-<sub>Building practical systems across AI, software, and real-time gameplay.</sub>
-
-<br />
-<br />
-
 [![GitHub Followers](https://img.shields.io/github/followers/roshaan-77?style=for-the-badge&color=8B1E2D&labelColor=111111)](https://github.com/roshaan-77)
 [![Profile Views](https://komarev.com/ghpvc/?username=roshaan-77&style=for-the-badge&color=8B1E2D&label=PROFILE%20VIEWS)](https://github.com/roshaan-77)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B1E2D)](https://linkedin.com/in/roshaan-haider)
