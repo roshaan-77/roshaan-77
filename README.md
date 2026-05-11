@@ -28,71 +28,108 @@ Example:
 </div>
 
 ---
-
 ## Introduction
 
-I am an undergraduate computer science student interested in **AI engineering** and **game development**.
+<div align="center">
 
-My work is centered on systems that need to feel both technically sound and usable in practice, from **multiplayer combat architecture in Unity** to **accessibility-focused AI workflows** and **data-driven simulation projects**.
+</div>
+
+<br/>
+
+I am a Computer Science undergraduate at **FAST-NUCES** with a strong interest in building systems that combine technical depth with practical usability.
+
+My work currently spans across:
+
+- **AI engineering and intelligent workflows**
+- **Multiplayer gameplay systems in Unity**
+- **Real time combat architecture and animation logic**
+- **Data-driven simulation and accessibility-focused software**
+
+I enjoy projects where engineering decisions directly affect user experience whether that means improving gameplay responsiveness, structuring scalable systems, or exploring practical AI driven solutions.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineering-8B1E2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Unity%20Development-2C2C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/Multiplayer%20Systems-8B1E2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Software%20Architecture-2C2C2C?style=flat-square" />
+
+</div>
 
 ---
 
 ## Profile Snapshot
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Current Role</strong>
-      <br />
-      Computer Science Undergraduate
-      <br />
-      FAST-NUCES
-    </td>
-    <td valign="top" width="33%">
-      <strong>Primary Areas</strong>
-      <br />
-      AI Engineering
-      <br />
-      Software Engineering
-      <br />
-      Unity Game Development
-    </td>
-    <td valign="top" width="33%">
-      <strong>Core Direction</strong>
-      <br />
-      Multiplayer Systems
-      <br />
-      Real-Time Gameplay
-      <br />
-      Practical AI Workflows
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/FAST--NUCES-Computer%20Science%20Undergraduate-8B1E2D?style=for-the-badge&labelColor=111111" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20Engineering-Primary%20Focus-111111?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Engineering-System%20Design-8B1E2D?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity%20Development-Real--Time%20Gameplay-111111?style=flat-square&logo=unity&logoColor=white" />
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Building%20technically%20grounded%20systems%20across%20AI%2C%20software%2C%20and%20real--time%20gameplay.-2C2C2C?style=for-the-badge&labelColor=8B1E2D" />
+
+</div>
+</div>
 
 ---
 
 ## Current Focus
 
+<div align="center">
+
 <table>
-  <tr>
-    <td valign="top" width="100%">
-      <strong>Now Building</strong>
-      <br />
-      Developing <strong>War of Survival</strong>, a multiplayer third-person action game built in Unity.
-      <br />
-      <br />
-      <strong>Going Deeper Into</strong>
-      <br />
-      Multiplayer architecture, animation systems, and real-time gameplay logic.
-      <br />
-      <br />
-      <strong>Exploring</strong>
-      <br />
-      AI systems that solve practical workflow and accessibility problems.
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="50%" bgcolor="#111111">
+
+<br>
+
+## ⚔️ War of Survival
+
+<sub><b>Third-person multiplayer combat game built in Unity</b></sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/Combat%20Systems-8B1E2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Photon%20Networking-2C2C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/Animation%20Logic-8B1E2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Real--Time%20Gameplay-2C2C2C?style=flat-square" />
+
+<br><br>
+
+</td>
+
+<td align="center" width="50%" bgcolor="#1A1A1A">
+
+<br>
+
+## 🧠 AI Learning Journey
+
+<sub><b>Exploring practical AI systems and intelligent workflows</b></sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-8B1E2D?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Workflows-2C2C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/Accessibility%20Systems-8B1E2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Problem%20Solving-2C2C2C?style=flat-square" />
+
+<br><br>
+
+</td>
+
+</tr>
 </table>
 
+</div>
 ---
 
 ## Tech Stack
@@ -101,46 +138,42 @@ My work is centered on systems that need to feel both technically sound and usab
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,postgres&theme=dark" />
 
-<br />
+<br/>
+<br/>
 
-### Tools and Frameworks
+### Frameworks & Tools
 
-![Unity](https://img.shields.io/badge/Unity-1E1E1E?style=for-the-badge&logo=unity&logoColor=white)
-![Photon PUN](https://img.shields.io/badge/Photon_PUN-1E1E1E?style=for-the-badge&logo=photon&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=unity,git,github,linux,supabase&theme=dark" />
 
 </div>
 
-<br />
-
-<table>
-  <tr>
-    <td valign="top" width="20%"><strong>AI Systems</strong></td>
-    <td valign="top" width="20%"><strong>Game Mechanics</strong></td>
-    <td valign="top" width="20%"><strong>Multiplayer Architecture</strong></td>
-    <td valign="top" width="20%"><strong>Animation Systems</strong></td>
-    <td valign="top" width="20%"><strong>Real-Time Gameplay</strong></td>
-  </tr>
-</table>
-
----
-## GitHub Overview
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshaan-77&show_icons=true&theme=default&hide_border=true" height="170"/>
+<img src="https://img.shields.io/badge/AI%20Systems-8B1E2D?style=flat-square&logo=openai&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaan-77&layout=compact&theme=default&hide_border=true" height="170"/>
+<img src="https://img.shields.io/badge/Game%20Mechanics-1F1F1F?style=flat-square&logo=unity&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Multiplayer%20Architecture-8B1E2D?style=flat-square&logo=databricks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Animation%20Systems-1F1F1F?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Real--Time%20Gameplay-8B1E2D?style=flat-square&logo=gamemaker&logoColor=white" />
+
+</div>
+
+---
+
+### GitHub Overview
+
+<div align="center">
+
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roshaan-77&layout=compact&hide_border=true&bg_color=ffffff&title_color=8B1E2D&text_color=1F1F1F&exclude_repo=roshaan-77&hide=html,css" height="170"/>
+
 </div>
 
 <br/>
@@ -150,180 +183,17 @@ My work is centered on systems that need to feel both technically sound and usab
 <img src="https://streak-stats.demolab.com?user=roshaan-77&background=FFFFFF&border=D9D9D9&stroke=8B1E2D&ring=8B1E2D&fire=8B1E2D&currStreakLabel=1F1F1F&sideLabels=1F1F1F&currStreakNum=111111&sideNums=111111&dates=666666" height="170"/>
 
 </div>
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <strong>01 | War of Survival</strong>
-      <br />
-      Multiplayer third-person action combat game built with <strong>Unity</strong>, <strong>C#</strong>, and <strong>Photon PUN</strong>.
-      <br />
-      <br />
-      - Melee combat with responsive movement, blocking, dodging, crouching, and attack flow
-      <br />
-      - Animation state machines designed for fluid locomotion and combat transitions
-      <br />
-      - Multiplayer synchronization for real-time player interaction
-      <br />
-      <br />
-      <strong>Focus:</strong> gameplay programming, combat systems, animation architecture, multiplayer networking
-      <br />
-      <br />
-      <!-- Future visual placeholder: add War of Survival gameplay GIF below when ready. -->
-      <sub>Gameplay GIF placeholder</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <strong>02 | NeuralSight</strong>
-      <br />
-      AI accessibility prototype that helps users with upper-limb disabilities control a computer through <strong>eye tracking</strong> and <strong>voice commands</strong>.
-      <br />
-      <br />
-      - Gaze tracking and blink-based interaction workflows
-      <br />
-      - Speech-to-text command handling for hands-free control
-      <br />
-      - AI-agent-based execution flow for practical task interaction
-      <br />
-      <br />
-      <strong>Focus:</strong> accessibility, computer vision, speech workflows, human-computer interaction
-      <br />
-      <br />
-      <!-- Future visual placeholder: add NeuralSight demo screenshot or short demo GIF below when ready. -->
-      <sub>Demo screenshot or interaction flow placeholder</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <strong>03 | AI-Based Warehouse Management System</strong>
-      <br />
-      AI-powered warehouse simulation system exploring coordination, scheduling, and concurrency concepts.
-      <br />
-      <br />
-      - Producer-consumer workflows
-      <br />
-      - Semaphores and multithreading concepts
-      <br />
-      - Adaptive scheduling and system coordination ideas
-      <br />
-      <br />
-      <strong>Focus:</strong> simulation logic, concurrency, systems thinking
-      <br />
-      <br />
-      <!-- Future visual placeholder: add architecture diagram below when ready. -->
-      <sub>Architecture diagram or workflow snapshot placeholder</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <strong>04 | Cloud Resource Optimizer</strong>
-      <br />
-      AI-based cloud resource allocation prototype using <strong>machine learning</strong> and <strong>A* informed search</strong> with Google Cluster datasets.
-      <br />
-      <br />
-      - Dataset preprocessing and workload pattern study
-      <br />
-      - Forecasting-oriented ML workflow for resource demand analysis
-      <br />
-      - Search-based allocation strategy for efficient state transitions
-      <br />
-      <br />
-      <strong>Focus:</strong> optimization, ML workflows, resource scheduling
-      <br />
-      <br />
-      <!-- Future visual placeholder: add workload chart or architecture diagram below when ready. -->
-      <sub>Optimization flow or data visualization placeholder</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <strong>05 | Feast Delights</strong>
-      <br />
-      Restaurant management system using <strong>Supabase</strong> and <strong>PostgreSQL</strong> with a focus on structured backend data workflows.
-      <br />
-      <br />
-      - Normalized relational database design
-      <br />
-      - Order tracking and inventory-oriented workflows
-      <br />
-      - Backend data structure for reliable operational management
-      <br />
-      <br />
-      <strong>Focus:</strong> database design, backend workflows, relational modeling
-      <br />
-      <br />
-      <!-- Future visual placeholder: add schema diagram or UI preview below when ready. -->
-      <sub>Schema diagram or system preview placeholder</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
-## Engineering Direction
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Intelligent Systems</strong>
-      <br />
-      Practical use cases with real workflow value.
-    </td>
-    <td valign="top" width="33%">
-      <strong>Software Structure</strong>
-      <br />
-      Clean implementation and deliberate technical decisions.
-    </td>
-    <td valign="top" width="33%">
-      <strong>Real-Time Gameplay</strong>
-      <br />
-      Systems that feel responsive, readable, and intentional.
-    </td>
-  </tr>
-</table>
-
-<br />
-
-I want my projects to reflect solid technical decisions, clear thinking, and steady iteration.
-
----
-
-## Contact
+### Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-roshaan--77-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=8B1E2D)](https://github.com/roshaan-77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-roshaan--haider-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B1E2D)](https://linkedin.com/in/roshaan-haider)
-[![Email](https://img.shields.io/badge/Email-roshaanhaider2005%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B1E2D)](mailto:roshaanhaider2005@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-roshaan--77-111111?style=flat-square&logo=github&logoColor=white&labelColor=8B1E2D)](https://github.com/roshaan-77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshaan_Haider-111111?style=flat-square&logo=linkedin&logoColor=white&labelColor=8B1E2D)](https://www.linkedin.com/in/roshaan-haider-0951472a7/)
+[![Email](https://img.shields.io/badge/Email-roshaanhaider2005%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white&labelColor=8B1E2D)](mailto:roshaanhaider2005@gmail.com)
 </div>
 
 ---
-
-<div align="center">
-  <sub>Clean systems. Thoughtful gameplay. Practical AI.</sub>
 </div>
