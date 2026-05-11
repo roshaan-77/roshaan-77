@@ -16,28 +16,12 @@ AI Enthusiast | Software Engineer | Unity Game Developer
 Example:
 ![Roshaan Haider Banner](./assets/banner.png)
 -->
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Roshaan Haider Banner"/>
+</p>
 
 <div align="center">
 
-<br />
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <sub>BANNER PLACEHOLDER</sub>
-      <br />
-      <br />
-      <strong>ROSHAAN HAIDER</strong>
-      <br />
-      <sub>AI Enthusiast | Software Engineer | Unity Game Developer</sub>
-      <br />
-      <br />
-      <sub>Matte black | Charcoal geometry | Muted crimson accents | Clean cinematic spacing</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
 
 # Roshaan Haider
 
