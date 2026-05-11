@@ -33,7 +33,7 @@ Example:
 
 ## Introduction
 
-I am an undergraduate engineer interested in **AI engineering**, **software engineering**, and **game development**.
+I am an undergraduate computer science student interested in **AI engineering** and **game development**.
 
 My work is centered on systems that need to feel both technically sound and usable in practice, from **multiplayer combat architecture in Unity** to **accessibility-focused AI workflows** and **data-driven simulation projects**.
 
