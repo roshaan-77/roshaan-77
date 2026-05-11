@@ -130,6 +130,7 @@ I enjoy projects where engineering decisions directly affect user experience whe
 </table>
 
 </div>
+
 ---
 
 ## Tech Stack
