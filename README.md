@@ -134,20 +134,23 @@ My work is centered on systems that need to feel both technically sound and usab
 </table>
 
 ---
-
 ## GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshaan-77&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=00000000&title_color=9E2235&text_color=E6E6E6&icon_color=9E2235&border_color=2C2C2C" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaan-77&layout=compact&langs_count=8&bg_color=00000000&title_color=9E2235&text_color=E6E6E6&border_color=2C2C2C" height="170" alt="Top languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=roshaan-77&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=8B1E2D&text_color=1F1F1F&icon_color=8B1E2D&border_color=D9D9D9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaan-77&layout=compact&langs_count=8&bg_color=ffffff&title_color=8B1E2D&text_color=1F1F1F&border_color=D9D9D9" height="170"/>
+
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=roshaan-77&background=00000000&border=2C2C2C&stroke=9E2235&ring=9E2235&fire=9E2235&currStreakLabel=E6E6E6&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8F8F8F" height="170" alt="GitHub streak" />
-</div>
 
+<img src="https://streak-stats.demolab.com?user=roshaan-77&background=FFFFFF&border=D9D9D9&stroke=8B1E2D&ring=8B1E2D&fire=8B1E2D&currStreakLabel=1F1F1F&sideLabels=1F1F1F&currStreakNum=111111&sideNums=111111&dates=666666" height="170"/>
+
+</div>
 ---
 
 ## Featured Projects
